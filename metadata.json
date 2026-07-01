@@ -1,0 +1,6 @@
+{
+  "name": "Facebook ID Finder",
+  "description": "Tự động lấy và giải mã ID từ URL Facebook cá nhân, Fanpage và Nhóm bằng máy quét HTML tiên tiến.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
